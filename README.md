@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="SEU-GALHO-AQUI.png" width="100%">
+<img src="galho.png" width="100%">
 
 </div>
 
@@ -23,7 +23,7 @@
 <td width="60%" valign="top">
 
 ### 🌑 A Maldição do Conhecimento
-Aprofundando-me em <b>HTML</b>, <b>CSS</b>, <b>Python</b> e <b>Flask</b> —  
+Aprofundando-me em **HTML**, **CSS**, **Python** e **Flask** —  
 lapidando a lógica com o rigor das hachuras.
 
 <br>
@@ -42,7 +42,7 @@ Sul do Brasil — onde a névoa encontra o código.
 
 <td width="40%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=carlos-hat-trick&show_icons=true&theme=dark&bg_color=1C1C1C&title_color=ffffff&text_color=b5b5b5&icon_color=ffffff&hide_border=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=carlos-hat-trick&show_icons=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=b5b5b5&icon_color=ffffff&hide_border=true" width="100%">
 
 </td>
 
@@ -52,7 +52,7 @@ Sul do Brasil — onde a névoa encontra o código.
 ---
 
 <div align="center">
-<img src="SEU-GALHO-AQUI.png" width="100%" style="transform: scaleX(-1);">
+<img src="galho.png" width="100%" style="transform: scaleX(-1);">
 </div>
 
 ---
@@ -61,14 +61,14 @@ Sul do Brasil — onde a névoa encontra o código.
 
 <div align="center">
 
-<img src="LINK-DO-GIF-DIRETO.gif" width="100%" style="border-radius: 12px;">
+<img src="https://64.media.tumblr.com/efd43bbfa4b057ef145549a43de1288d/a34fec2796a16606-83/s540x810/98198eb53d75024222698b7826b38129af2bd475.gif" width="100%" style="border-radius: 12px; max-width: 600px;">
 
 </div>
 
 ---
 
 <div align="center">
-<img src="SEU-GALHO-AQUI.png" width="100%">
+<img src="galho.png" width="100%">
 </div>
 
 ---
@@ -77,18 +77,18 @@ Sul do Brasil — onde a névoa encontra o código.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1C1C1C?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-1C1C1C?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 ---
 
 <div align="center">
-<img src="SEU-GALHO-AQUI.png" width="100%">
+<img src="galho.png" width="100%" style="transform: scaleY(-1);">
 </div>
 
 ---
@@ -97,7 +97,7 @@ Sul do Brasil — onde a névoa encontra o código.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-hat-trick&layout=compact&theme=dark&bg_color=1C1C1C&title_color=ffffff&text_color=b5b5b5&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-hat-trick&layout=compact&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=b5b5b5&hide_border=true" />
 
 <br><br>
 
