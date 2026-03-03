@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://wallpapers.com/images/hd/the-girl-from-the-other-side-siwa-and-teacher-760-x-428-wallpaper-47v78oicjupz64ha.jpg" width="100%" style="border-radius: 10px;">
+<img src="https://wallpapers.com/images/hd/the-girl-from-the-other-side-siwa-and-teacher-760-x-428-wallpaper-47v78oicjupz64ha.jpg" width="100%" style="border-radius: 12px;">
 
 <br><br>
 
 # 🕯️ Carlos Hat-trick
-### *Onde a luz encontra a sombra, o código ganha vida.*
+### <i>Onde a luz encontra a sombra, o código ganha vida.</i>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spectral.png" width="100%">
+<img src="https://www.shutterstock.com/image-vector/vintage-drawing-leafless-tree-branch-600nw-2667733085.jpg" width="100%">
 
 </div>
 
@@ -17,63 +17,78 @@
 
 ## 🌲 Crônicas do Exterior
 
-<table border="0">
+<table border="0" width="100%">
 <tr>
-<td width="65%">
 
-**🌑 A Maldição do Conhecimento** Aprofundando-me em **HTML**, **CSS**, **Python** e **Flask** —  
+<td width="60%" valign="top">
+
+### 🌑 A Maldição do Conhecimento
+Aprofundando-me em <b>HTML</b>, <b>CSS</b>, <b>Python</b> e <b>Flask</b> —  
 lapidando a lógica com o rigor das hachuras.
 
 <br>
 
-**☕ O Chá da Tarde** Criação de projetos minimalistas e interfaces silenciosas.  
-Experiências que buscam contar uma história em cada clique.
+### ☕ O Chá da Tarde
+Projetos minimalistas.  
+Interfaces silenciosas.  
+Experiências que contam histórias.
 
 <br>
 
-**📍 Território** Sul do Brasil — onde a névoa encontra o código.
+### 📍 Território
+Sul do Brasil — onde a névoa encontra o código.
 
 </td>
 
-<td width="100%" align="center">
+<td width="40%" align="center" valign="top">
 
-<img src="https://64.media.tumblr.com/efd43bbfa4b057ef145549a43de1288d/a34fec2796a16606-83/s540x810/98198eb53d75024222698b7826b38129af2bd475.gifv" width="360px" style="border-radius: 50%;">
+<img src="https://64.media.tumblr.com/efd43bbfa4b057ef145549a43de1288d/a34fec2796a16606-83/s540x810/98198eb53d75024222698b7826b38129af2bd475.gif" width="220px" style="border-radius: 12px;">
 
 </td>
+
 </tr>
 </table>
 
 ---
 
 <div align="center">
+<img src="https://www.shutterstock.com/image-vector/vintage-drawing-leafless-tree-branch-600nw-2667733085.jpg" width="100%" style="transform: scaleX(-1);">
+</div>
+
+---
 
 ## ✒️ Runas e Hachuras
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" />
+<div align="center">
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/spectral.png" width="100%" style="transform: scaleY(-1);">
+<img src="https://img.shields.io/badge/HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1C1C1C?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-1C1C1C?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
+
+---
+
+<div align="center">
+<img src="https://www.shutterstock.com/image-vector/vintage-drawing-leafless-tree-branch-600nw-2667733085.jpg" width="100%">
+</div>
+
+---
 
 ## 🌑 Registros da Floresta
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlos-hat-trick&show_icons=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-hat-trick&layout=compact&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlos-hat-trick&show_icons=true&theme=dark&bg_color=1C1C1C&title_color=ffffff&text_color=b5b5b5&icon_color=ffffff&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-hat-trick&layout=compact&theme=dark&bg_color=1C1C1C&title_color=ffffff&text_color=b5b5b5&hide_border=true" />
 
 <br><br>
 
-*"Entre o Interior e o Exterior, escolhi escrever meu próprio destino."*
+<i>"Entre o Interior e o Exterior, escolhi escrever meu próprio destino."</i>
 
-<br>
-<img src="https://media.giphy.com/media/3o7TKMGpxVfF7j2E8w/giphy.gif" width="30px">
 </div>
