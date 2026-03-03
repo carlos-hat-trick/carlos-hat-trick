@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://wallpapers.com/images/hd/the-girl-from-the-other-side-siwa-and-teacher-760-x-428-wallpaper-47v78oicjupz64ha.jpg" width="100%" style="border-radius: 12px;">
+<img src="https://i.pinimg.com/736x/a5/00/f8/a500f8dc67286b6792a1c64e4e5a3c3f.jpg" width="100%" style="border-radius: 12px;">
 
 <br><br>
 
