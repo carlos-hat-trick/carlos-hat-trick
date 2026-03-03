@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-<img src="LINK-RAW-DO-SEU-GALHO.png" width="100%" style="transform: scaleX(-1);">
+<img src="galho.png" width="100%" style="transform: scaleX(-1);">
 </div>
 
 ---
@@ -52,7 +52,7 @@ Sul do Brasil — onde a névoa encontra o código.
 ---
 
 <div align="center">
-<img src="LINK-RAW-DO-SEU-GALHO.png" width="100%">
+<img src="galho.png" width="100%">
 </div>
 
 ---
@@ -72,7 +72,7 @@ Sul do Brasil — onde a névoa encontra o código.
 ---
 
 <div align="center">
-<img src="LINK-RAW-DO-SEU-GALHO.png" width="100%">
+<img src="galho.png" width="100%">
 </div>
 
 ---
