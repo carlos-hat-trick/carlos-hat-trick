@@ -35,9 +35,9 @@ Experiências que buscam contar uma história em cada clique.
 
 </td>
 
-<td width="35%" align="center">
+<td width="100%" align="center">
 
-<img src="https://media.tenor.com/7YfX9Y-7Gg4AAAAC/totsukuni-no-shoujo-the-girl-from-the-other-side.gif" width="160px" style="border-radius: 50%;">
+<img src="https://64.media.tumblr.com/efd43bbfa4b057ef145549a43de1288d/a34fec2796a16606-83/s500x750/299a1f5eb43cf452c5b3d583e72bc902ceb5c228.gifv" width="360px" style="border-radius: 50%;">
 
 </td>
 </tr>
