@@ -4,8 +4,8 @@
 
 <br><br>
 
-# 🪶 C A R L O S   H A T – T R I C K
-### *— A melancolia da forma, a precisão do código —*
+# CARLOS HAT-TRICK
+### *— Arquitetura de Software & Design Minimalista —*
 
 <br>
 
@@ -13,16 +13,16 @@
 
 ---
 
-## ░ Crônicas da Névoa
+## ░ Perfil Profissional
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="right" valign="middle">
-      <h3>I. O Interior</h3>
+      <h3>I. Desenvolvimento de Interface</h3>
       <p>
-        Estudante e construtor de interfaces minimalistas. <br>
-        Busco no contraste entre o cinza e o branco <br>
-        o silêncio necessário para a criação estrutural.
+        Desenvolvedor focado na criação de interfaces intuitivas e minimalistas.<br>
+        Priorizo a clareza estrutural e a eficiência visual,<br>
+        transformando requisitos complexos em experiências limpas.
       </p>
     </td>
     <td width="50%" align="center">
@@ -39,11 +39,11 @@
       <img src="https://64.media.tumblr.com/1aa77ea374dae035f618e160f389cfa7/a34fec2796a16606-93/s540x810/d49b73c64267b30ebb859e87be978e308e482e8d.gif" width="100%" style="border-radius: 8px;">
     </td>
     <td width="50%" align="left" valign="middle">
-      <h3>II. O Exterior</h3>
+      <h3>II. Tecnologias & Backend</h3>
       <p>
-        Cada linha de código é um traço de hachura. <br>
-        Especializando-me em <b>Python</b> e <b>Flask</b>, <br>
-        onde a lógica se encontra com a estética gótica.
+        Especialização no ecossistema <b>Python</b> e <b>Flask</b>.<br>
+        Focado na construção de sistemas robustos e escaláveis,<br>
+        onde a lógica de código e o design de sistemas convergem.
       </p>
     </td>
   </tr>
@@ -51,7 +51,7 @@
 
 ---
 
-## ░ Runas (Habilidades)
+## ░ Stack Tecnológica
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-D3D3D3?style=for-the-badge&logo=python&logoColor=303030" />
@@ -63,7 +63,7 @@
 
 ---
 
-## ░ Estatísticas
+## ░ Performance & Atividade
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlos-hat-trick&show_icons=true&theme=transparent&title_color=D3D3D3&text_color=A9A9A9&icon_color=D3D3D3&hide_border=true" />
@@ -76,12 +76,10 @@
 
 <br>
 
-*"O Exterior observa.  
-O Interior aprende.  
-Eu programo."*
+*"Observação analítica. Aprendizado contínuo. Execução técnica."*
 
 <br>
 
-📜
+✉️
 
 </div>
