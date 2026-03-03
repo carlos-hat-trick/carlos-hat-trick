@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="LINK-RAW-DO-SEU-GALHO.png" width="100%">
+<img src="galho.png" width="100%">
 
 </div>
 
