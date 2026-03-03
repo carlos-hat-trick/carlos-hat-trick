@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/L9pW0v4/totsukuni-banner.jpg" width="100%" alt="The Girl From the Other Side">
+<img src="https://darkside.blog.br/wp-content/uploads/2019/03/ameninadooutrolado-destaque-600x315.png" width="100%" alt="The Girl From the Other Side">
 
 <br>
 
