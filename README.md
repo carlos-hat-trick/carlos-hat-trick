@@ -37,7 +37,7 @@ Experiências que buscam contar uma história em cada clique.
 
 <td width="100%" align="center">
 
-<img src="https://64.media.tumblr.com/efd43bbfa4b057ef145549a43de1288d/a34fec2796a16606-83/s500x750/299a1f5eb43cf452c5b3d583e72bc902ceb5c228.gifv" width="360px" style="border-radius: 50%;">
+<img src="https://64.media.tumblr.com/efd43bbfa4b057ef145549a43de1288d/a34fec2796a16606-83/s540x810/98198eb53d75024222698b7826b38129af2bd475.gifv" width="360px" style="border-radius: 50%;">
 
 </td>
 </tr>
