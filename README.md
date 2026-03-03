@@ -22,7 +22,7 @@
       <p><b>Território:</b> Localizado em [Sua Cidade/Brasil].</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxVfF7j2E8w/giphy.gif" width="120px">
+      <img src="https://i.pinimg.com/originals/a9/a0/a8/a9a0a862e49664b46d7be3253e893714.gif" width="120px">
     </td>
   </tr>
 </table>
