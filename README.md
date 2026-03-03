@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://darkside.blog.br/wp-content/uploads/2019/03/ameninadooutrolado-destaque-600x315.png" width="100%" alt="The Girl From the Other Side">
+<img src="https://a.storyblok.com/f/178900/668x376/a720c8eeb2/106eb650488e784379fb580ab12b83c91637439381_main.jpg/m/filters:quality(95)format(webp)" width="100%" alt="The Girl From the Other Side">
 
 <br>
 
