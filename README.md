@@ -17,9 +17,9 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="center">
+    <td width="50%" align="right" valign="middle">
       <h3>I. O Interior</h3>
-      <p align="right">
+      <p>
         Estudante e construtor de interfaces minimalistas. <br>
         Busco no contraste entre o cinza e o branco <br>
         o silêncio necessário para a criação estrutural.
@@ -36,11 +36,11 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://64.media.tumblr.com/1aa77ea374dae035f618e160f389cfa7/a34fec2796a16606-93/s540x810/d49b73c64267b30ebb859e87be978e308e482e8d.gifv" width="100%" style="border-radius: 8px;">
+      <img src="https://64.media.tumblr.com/1aa77ea374dae035f618e160f389cfa7/a34fec2796a16606-93/s540x810/d49b73c64267b30ebb859e87be978e308e482e8d.gif" width="100%" style="border-radius: 8px;">
     </td>
-    <td width="50%" valign="center">
+    <td width="50%" align="left" valign="middle">
       <h3>II. O Exterior</h3>
-      <p align="left">
+      <p>
         Cada linha de código é um traço de hachura. <br>
         Especializando-me em <b>Python</b> e <b>Flask</b>, <br>
         onde a lógica se encontra com a estética gótica.
