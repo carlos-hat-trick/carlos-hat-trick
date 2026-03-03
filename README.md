@@ -26,7 +26,7 @@
       </p>
     </td>
     <td width="50%" align="center">
-      <img src="https://64.media.tumblr.com/efd43bbfa4b057ef145549a43de1288d/a34fec2796a16606-83/s540x810/98198eb53d75024222698b7826b38129af2bd475.gif" width="100%" style="border-radius: 8px;">
+      <img src="https://64.media.tumblr.com/b82df65399f773f4d3020fdd7bc5abba/a34fec2796a16606-4c/s540x810/a91bf6e2c2b1cab655c77c1b15cdd04c4ac417cf.gif" width="100%" style="border-radius: 8px;">
     </td>
   </tr>
 </table>
