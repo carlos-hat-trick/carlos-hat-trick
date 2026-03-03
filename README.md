@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://www.shutterstock.com/image-vector/vintage-drawing-leafless-tree-branch-600nw-2667733085.jpg" width="100%">
+<img src="SEU-GALHO-AQUI.png" width="100%">
 
 </div>
 
@@ -42,7 +42,7 @@ Sul do Brasil — onde a névoa encontra o código.
 
 <td width="40%" align="center" valign="top">
 
-<img src="https://64.media.tumblr.com/efd43bbfa4b057ef145549a43de1288d/a34fec2796a16606-83/s540x810/98198eb53d75024222698b7826b38129af2bd475.gif" width="220px" style="border-radius: 12px;">
+<img src="https://github-readme-stats.vercel.app/api?username=carlos-hat-trick&show_icons=true&theme=dark&bg_color=1C1C1C&title_color=ffffff&text_color=b5b5b5&icon_color=ffffff&hide_border=true" width="100%">
 
 </td>
 
@@ -52,14 +52,28 @@ Sul do Brasil — onde a névoa encontra o código.
 ---
 
 <div align="center">
-<img src="https://www.shutterstock.com/image-vector/vintage-drawing-leafless-tree-branch-600nw-2667733085.jpg" width="100%" style="transform: scaleX(-1);">
+<img src="SEU-GALHO-AQUI.png" width="100%" style="transform: scaleX(-1);">
+</div>
+
+---
+
+## 🌫️ Fragmento do Exterior
+
+<div align="center">
+
+<img src="LINK-DO-GIF-DIRETO.gif" width="100%" style="border-radius: 12px;">
+
+</div>
+
+---
+
+<div align="center">
+<img src="SEU-GALHO-AQUI.png" width="100%">
 </div>
 
 ---
 
 ## ✒️ Runas e Hachuras
-
-<br>
 
 <div align="center">
 
@@ -74,7 +88,7 @@ Sul do Brasil — onde a névoa encontra o código.
 ---
 
 <div align="center">
-<img src="https://www.shutterstock.com/image-vector/vintage-drawing-leafless-tree-branch-600nw-2667733085.jpg" width="100%">
+<img src="SEU-GALHO-AQUI.png" width="100%">
 </div>
 
 ---
@@ -82,8 +96,6 @@ Sul do Brasil — onde a névoa encontra o código.
 ## 🌑 Registros da Floresta
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlos-hat-trick&show_icons=true&theme=dark&bg_color=1C1C1C&title_color=ffffff&text_color=b5b5b5&icon_color=ffffff&hide_border=true" />
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-hat-trick&layout=compact&theme=dark&bg_color=1C1C1C&title_color=ffffff&text_color=b5b5b5&hide_border=true" />
 
