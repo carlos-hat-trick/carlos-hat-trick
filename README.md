@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="galho.png" width="100%">
+<img src="galho.png" width="10%">
 
 </div>
 
